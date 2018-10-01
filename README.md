@@ -11,4 +11,4 @@ It is an online fashion website where you can try any dress live on yourself thr
 - My SQL
 
 ## Developer 
-([Neha Karmakar](https://github.com/neha2117))
+[Neha Karmakar](https://github.com/neha2117)
