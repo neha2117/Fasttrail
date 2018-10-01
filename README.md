@@ -9,3 +9,6 @@ It is an online fashion website where you can try any dress live on yourself thr
 - AJAX
 - PHP
 - My SQL
+
+## Developer 
+([Neha Karmakar](https://github.com/neha2117))
